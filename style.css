@@ -1,0 +1,10 @@
+#first,
+.demo {
+  color: blueviolet;
+  font-family: "Franklin Gothic Medium";
+}
+.demo.demo1 {
+  color: red;
+  font-size: 40px;
+  font-family: "Times New Roman";
+}
